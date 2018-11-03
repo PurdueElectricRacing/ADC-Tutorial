@@ -1,0 +1,8 @@
+/*
+!.gitignore
+!/Src/
+!/Src/*
+!/Inc/
+!/Inc/*
+!adc_tutorial.docx
+!ADC_tutorial.ioc
